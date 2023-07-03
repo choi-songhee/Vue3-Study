@@ -13,7 +13,7 @@ export default {
 			author: 'Vue Team',
 			year: '2020',
 			title: 'Vue 3 Guide',
-			description: '당신은 이 책을 지금 바로 읽습니다 ;)',
+			description: '당신은 이 책을 지금 바로 읽습니다',
 			price: '무료',
 		});
 
